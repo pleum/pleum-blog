@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Sarabun:wght@400;500&display=swap");
+
+* {
+  font-family: "Sarabun";
+}
+
+body,
+html {
+  background-color: #121212;
+}
